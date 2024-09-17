@@ -51,7 +51,7 @@ RAG combines the power of retrieval-based systems, which excel in factual accura
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/ronit-singhal/your-repo-name.git
+    git clone https://github.com/ronit-singhal/rag-pdf-qna.git
     cd your-repo-name
     ```
 
