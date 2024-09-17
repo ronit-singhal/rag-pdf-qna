@@ -2,7 +2,7 @@
 
 This project implements a **Retrieval-Augmented Generation (RAG)** system using **Ollama's Llama 3 ChatQA** model, **FAISS** for document indexing, and **Streamlit** for deployment. The QA system can answer queries based on uploaded documents by combining retrieval of relevant document sections with generative language model capabilities.
 
-A Colab notebook, `RAG_QA_System.ipnb`, has been shared to demonstrate the backend of the system.
+A Colab notebook, `RAG_QA_System.iypnb`, has been shared to demonstrate the backend of the system.
 
 ## Table of Contents
 - [Overview](#overview)
